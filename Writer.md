@@ -1,0 +1,1 @@
+As a writer, I am probablybest known for my medium contributions [Jeremy McKay – Medium](https://jeremymckay.medium.com/)
