@@ -2,6 +2,6 @@
 
 I am open to many possibilities.  It will be fun and interesting to build a blog using Obsidian and github.
 
-- [[Artist]]
+- [Artist](.Artist.md)
 - [[Programmer]]
 - [[Writer]]
